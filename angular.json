@@ -16,6 +16,7 @@
             "outputPath": "dist/scan-to-menu",
             "index": "src/index.html",
             "browser": "src/main.ts",
+            "baseHref": "/scan-to-menu-ex/",
             "polyfills": [
               "zone.js"
             ],
